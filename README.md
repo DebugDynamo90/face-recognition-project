@@ -201,18 +201,6 @@ url = "http://YOUR_PHONE_IP:8080/shot.jpg"                # Camera stream URL
 output_dir = "images/"                                     # Output directory
 ```
 
-## 📄 License
 
-[Add your license information here]
-
-## 🤝 Contributing
-
-[Add contributing guidelines here]
-
-## 📞 Support
-
-[Add contact information or issue reporting guidelines here]
-
----
 
 **Note**: This project is designed for educational purposes. Ensure you have proper consent before collecting and using face data, and be aware of privacy regulations in your jurisdiction.
